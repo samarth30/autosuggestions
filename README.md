@@ -1,3 +1,4 @@
+[![HitCount](http://hits.dwyl.com/samarth30/autosuggestions.svg)](http://hits.dwyl.com/samarth30/autosuggestions)
 # autosuggestions
 this is a search view. in this recycler view is used and filter is used as search view which will provide autosuggestions
 
